@@ -58,10 +58,25 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>A general principle of dendritic constancy: A neuron’s size-and shape-invariant excitability</b><br />
 		<div class='paper_metadata'>
 		Hermann Cuntz, Alex D Bird, Martin Mittag, Marcel Beining, <u>Marius Schneider</u>r, Laura Mediavilla, Felix Z Hoffmann, Thomas Deller, Peter Jedlicka <br />	
-  	<i>Volume 109, Issue 22</i> 2021<br />
+  	<i>Neuron Volume 109, Issue 22</i> 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255">Paper</a> | <a href="https://zenodo.org/record/5185295#.YReR_ogzZ6s">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1441033601018105856">Tweetprint</a> 
 </td></tr>	
+	
+	
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td2"><b>Aperiodic processes explaining rhythms in behavior: A matter of false detection or definition?</b><br />
+		<div class='paper_metadata'>
+		Martin Vinck, Cem Uran, <u>Marius Schneider</u>r <br />	
+  	<i>PsyArXiv</i> 2022<br />
+  	</div>
+  <a href="https://psyarxiv.com/wzvfh/">Paper</a> | <a 
+href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href="https://twitter.com/martin_a_vinck/status/1567542473638944768">Tweetprint</a> 
+</td></tr>
+	
+	
+	
 	
 <!-- <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2208.02895"><img class="teaser_img" src="images/placenta_teaser.png" /></a></div></td>
