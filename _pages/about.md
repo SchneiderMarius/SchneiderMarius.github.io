@@ -12,7 +12,7 @@ My name is Marius Schneider, I hold a master’s degree in physics and currently
 [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) under the supervision of [Martin Vinck](https://www.martinvinck.com/). I am affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs) at the Max Planck Institute for Brain Research.
 
 My research focuses on the understanding the dynamics of interactions between brain areas, using computational models as well as large scale electrophysiological data, recorded in rodents and non-human primates. 
-I previously worked with Hermann Cuntz and Peter Jedlicka, building large stochastic populations of biophysically realistic hippocampal granule cell models to study how the diversity of ion channels gives a neuron greater flexibility and robustness.
+I previously worked with [Hermann Cuntz](https://www.treestoolbox.org/hermann/index.html) and [Peter Jedlicka](https://www.uni-giessen.de/fbz/fb11/institute/computerbasiertes-modelling/dreir/team/jedlicka), building large stochastic populations of biophysically realistic hippocampal granule cell models to study how the diversity of ion channels gives a neuron greater flexibility and robustness.
 
 <style type="text/css">
   .paper_metadata a {
@@ -45,13 +45,23 @@ I previously worked with Hermann Cuntz and Peter Jedlicka, building large stocha
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
 		<div class='paper_metadata'>
-  	<u>Marius Schneider</u>r, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin 		Vinck <br />
+  	<u>Marius Schneider</u>r, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin Vinck <br />
   	<i>Neuron Volume 109, Issue 24</i> 2021<br />
   	</div>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a href="https://github.com/SchneiderMarius/coherence2021">Code</a> | <a href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> 
+  <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a 
+href="https://zenodo.org/record/5507277)">Code</a> | <a 
+href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https://www.biorxiv.org/content/10.1101/2020.06.17.156190v2.abstract">Preprint</a>  | <a href="https://twitter.com/Mars_Schneider/status/1447605137250336773">Tweetprint</a> 
 </td></tr>
 
-	
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td2"><b>A general principle of dendritic constancy: A neuron’s size-and shape-invariant excitability</b><br />
+		<div class='paper_metadata'>
+		Hermann Cuntz, Alex D Bird, Martin Mittag, Marcel Beining, <u>Marius Schneider</u>r, Laura Mediavilla, Felix Z Hoffmann, Thomas Deller, Peter Jedlicka <br />	
+  	<i>Volume 109, Issue 22</i> 2021<br />
+  	</div>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255">Paper</a> | <a href="https://zenodo.org/record/5185295#.YReR_ogzZ6s">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1441033601018105856">Tweetprint</a> 
+</td></tr>	
 	
 <!-- <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2208.02895"><img class="teaser_img" src="images/placenta_teaser.png" /></a></div></td>
