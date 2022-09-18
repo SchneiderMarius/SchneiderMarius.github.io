@@ -48,11 +48,12 @@ I previously worked with Hermann Cuntz and Peter Jedlicka, building large stocha
   	<u>Marius Schneider</u>r, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin 		Vinck
   	<i>Neuron Volume 109, Issue 24</i> 2021<br />
   	</div>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a href="https://github.com/SchneiderMarius/coherence2021">Code</a> | <a href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> 
 </td></tr>
 
-
-<tr>
+	
+	
+<!-- <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2208.02895"><img class="teaser_img" src="images/placenta_teaser.png" /></a></div></td>
   <td class="pub_td2"><b>Automatic Segmentation of the Placenta in BOLD MRI Time Series</b><br />
 		<div class='paper_metadata'>
@@ -142,7 +143,7 @@ I previously worked with Hermann Cuntz and Peter Jedlicka, building large stocha
   <a href="https://doi.org/10.1038/s41598-020-75120-7">Paper</a> | <a href="https://github.com/clintonjwang/lipiodol">Code</a>
 </td></tr>
 
-<!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr> -->
+<!-- <tr><td class="year_heading">2019<hr class="year_hr_wteaser"></td></tr>
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.1117/12.2512473"><img class="teaser_img" src="images/spie19_teaser.jpg"/></a></div></td>
 	<td class="pub_td2"><b>A probabilistic approach for interpretable deep learning in liver cancer diagnosis</b><br>
@@ -210,7 +211,7 @@ I previously worked with Hermann Cuntz and Peter Jedlicka, building large stocha
 		<br><i>Journal of Molecular and Cellular Cardiology</i> 2016<br>
 		</div>
 	<a href="https://doi.org/10.1016/j.yjmcc.2015.10.007">Paper</a>
-</td></tr>
+</td></tr>-->
 </table>
 
 
