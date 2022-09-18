@@ -239,28 +239,32 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
 </td></tr>-->
 </table>
 
+Computational Neurobiology
+TA, Undergraduate course, Goethe University, Biological Sciences, 2018
 
+Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons (4.5h each) and one seminar (1h). This course teaches the basic principles of coding and applies the skills acquired to analyse a computer model for fly motion detection.
+	
+	
 <h2>Teaching</h2>
 <span style="font-size: 12pt;">
-	Advances in Computer Vision (6.819/6.869), MIT, Spring 2021<br>
+	Neuromatch Academy: Computational Neuroscience 2020<br>	
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant with Prof. <a href="https://billf.mit.edu/">Bill Freeman</a> and <a href="http://web.mit.edu/phillipi/">Phillip Isola</a><br>
+		<t>Teaching Assistant<br>
+<span style="font-size: 12pt;">
+	Modeling Healthy and Diseased Brain: From Dendrites to Neurons and Networks, 7th Baltic-Nordic School on Neuroinformatics BNN, FIAS Frankfurt am Main, 2019<br>
+	<span style="font-size: 11pt;margin-left: 20px">
+		<t>Teaching Assistant</a><br>
+	Undergraduate Mentor, Goethe University, Frankfurt am Main, 2019<br>
+
 	<span style="font-size: 12pt;">
-	Undergraduate Mentor, MIT Undergraduate Research Opportunities Program, 2020<br>
-
-<h2>Academic Service</h2>
-<span style="font-size: 12pt;">
-	Program Committee, Medical Imaging Meets NeurIPS Workshop (MedNeurIPS) 2022<br>
-	Reviewer, Conference on Neural Information Processing Systems (NeurIPS) 2022<br>
-	Reviewer, International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021-2022<br>
-
-<h2>Selected Awards</h2>
-<span style="font-size: 12pt;">
-	Takeda Fellowship 2021-2022<br>
-	Siebel Foundation Scholar 2020<br>
-	Yale Department of Biomedical Engineering Prize, 2015<br>
-	Tau Beta Pi Engineering Honor Society, 2015<br>
+	Computational Neurobiology,  Undergraduate course, Goethe University, Biological Sciences, 2018<br>
+	<span style="font-size: 11pt;margin-left: 20px">
+		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a></a><br>
+	<span style="font-size: 12pt;">		
+		
 	
+		
+		
 <h2>Invited Talks</h2>
 <span style="font-size: 12pt;">
 	MIT-Takeda Presentation Series 2022<br>
