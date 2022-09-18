@@ -45,7 +45,7 @@ I previously worked with Hermann Cuntz and Peter Jedlicka, building large stocha
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
 		<div class='paper_metadata'>
-  	<u>Marius Schneider</u>r, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin 		Vinck
+  	<u>Marius Schneider</u>r, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin 		Vinck />
   	<i>Neuron Volume 109, Issue 24</i> 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a href="https://github.com/SchneiderMarius/coherence2021">Code</a> | <a href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> 
