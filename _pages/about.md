@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Ernst Struengmann Institute advised by [Martin Vinck](https://people.csail.mit.edu/polina/). My research focuses on . I am supported by the [IMPRS for neural circuits](https://mittakedaprogram.mit.edu/) .
+My name is Marius Schneider, I hold a master’s degree in physics and currently I am working on my PhD thesis in computational neuroscience at the 
+[Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) under the supervision of [Martin Vinck](https://www.martinvinck.com/). I am affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs) at the Max Planck Institute for Brain Research.
 
-I did my Masters under the supervision of [Hermann Cuntz](https://medicine.yale.edu/profile/james_duncan/) and [Julius Chapiro](https://medicine.yale.edu/profile/julius_chapiro/) in the [Yale Radiology Research Lab](https://medicine.yale.edu/lab/radresearch/), building interpretable neural networks for liver cancer diagnosis. I received a B.S. in Biomedical Engineering at Yale, where I developed computational models of heart muscle contraction under [Stuart Campbell](https://seas.yale.edu/faculty-research/faculty-directory/stuart-campbell).
+My research focuses on the understanding the dynamics of interactions between brain areas, using computational models as well as large scale electrophysiological data, recorded in rodents and non-human primates. 
+I previously worked with Hermann Cuntz and Peter Jedlicka, building large stochastic populations of biophysically realistic hippocampal granule cell models to study how the diversity of ion channels gives a neuron greater flexibility and robustness.
 
 <style type="text/css">
   .paper_metadata a {
@@ -40,29 +42,15 @@ I did my Masters under the supervision of [Hermann Cuntz](https://medicine.yale.
 <table class="pub_table">
  
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2206.01178"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
-  <td class="pub_td2"><b>Deep Learning on Implicit Neural Datasets</b><br />
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
 		<div class='paper_metadata'>
-  	<u>Clinton Wang</u>,
-  	<a href="https://people.csail.mit.edu/polina/">Polina Golland</a><br />
-  	<i>arXiv preprint</i> 2022<br />
+  	<u>Marius Schneider</u>r, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin 		Vinck
+  	<i>Neuron Volume 109, Issue 24</i> 2021<br />
   	</div>
-  <a href="http://arxiv.org/abs/2206.01178">Paper</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a>
 </td></tr>
 
-<!-- 
-<tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href=""><img class="teaser_img" src="images/tmi22_teaser.png" /></a></div></td>
-  <td class="pub_td2"><b>High Fidelity Medical Image-to-Image Translation with Spatial-Intensity Transforms</b><br />
-		<div class='paper_metadata'>
-  	<u>Clinton Wang</u>,
-  	<a href="https://www.massgeneral.org/doctors/17477/natalia-rost/">Natalia Rost</a>,
-  	<a href="https://people.csail.mit.edu/polina/">Polina Golland</a><br />
-  	<i>arXiv preprint</i> 2022<br />
-  	</div>
-  <a href="">Paper</a> | <a href="https://github.com/clintonjwang/spatial-intensity-transforms">Code</a> 
-</td></tr>
--->
 
 <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="http://arxiv.org/abs/2208.02895"><img class="teaser_img" src="images/placenta_teaser.png" /></a></div></td>
