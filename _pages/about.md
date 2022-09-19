@@ -266,7 +266,7 @@ Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons 
 	<span style="font-size: 12pt;">
 	Computational Neurobiology,  Undergraduate course, Goethe University, Biological Sciences, 2018<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a>, Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons (4.5h each) and one seminar (1h). This course teaches the basic principles of coding and applies the skills acquired to analyse a computer model for fly motion detection.<br>
+		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a>, Specialisation 2 ”fly motion vision” 7 afternoons (4.5h each) and one seminar (1h).<br>
 	<span style="font-size: 12pt;">		
 		
 	
