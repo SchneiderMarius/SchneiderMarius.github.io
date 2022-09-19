@@ -285,3 +285,8 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 	<a href="https://imbizo.africa/">IBRO-Simons Computational Neuroscience Imbizo Summer School, Cape Town, South Africa,2022</a><br>
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t> small project on reinforcement learning<a href="https://github.com/SchneiderMarius/KnightsTourTask">Code
+
+			
+----------
+<a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Mars_Schneider?ref_src=twsrc%5Etfw">Tweets by Mars_Schneider</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
+<a href="https://twitter.com/Mars_Schneider?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @Avra_b</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
