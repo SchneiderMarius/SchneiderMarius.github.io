@@ -260,8 +260,7 @@ Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons 
 <span style="font-size: 12pt;">
 	7th Baltic-Nordic School on Neuroinformatics BNN, FIAS Frankfurt am Main, 2019<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant<br>
-		<t>Modeling Healthy and Diseased Brain: From Dendrites to Neurons and Networks</a><br>
+		<t>Teaching Assistant, Modeling Healthy and Diseased Brain: From Dendrites to Neurons and Networks<br>
 <span style="font-size: 12pt;">
 	Undergraduate Mentor, Goethe University, Frankfurt am Main, 2019<br>		
 	<span style="font-size: 12pt;">
