@@ -47,7 +47,7 @@ My research focuses on understanding the dynamics of interactions between brain 
   	<i>Neuron Volume 109, Issue 24</i> 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a 
-href="https://zenodo.org/record/5507277)">Code</a> | <a 
+href="https://zenodo.org/record/5507277">Code</a> | <a 
 href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https://www.biorxiv.org/content/10.1101/2020.06.17.156190v2.abstract">Preprint</a>  | <a href="https://twitter.com/Mars_Schneider/status/1447605137250336773">Tweetprint</a> 
 </td></tr>
 
