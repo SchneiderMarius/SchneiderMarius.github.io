@@ -40,7 +40,7 @@ My research focuses on understanding the dynamics of interactions between brain 
 <table class="pub_table">
  
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/Coherence2021.png" /></a></div></td>
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
 		<div class='paper_metadata'>
   	<u>Marius Schneider</u>, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin Vinck <br />
@@ -52,7 +52,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
 </td></tr>
 
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255"><img class="teaser_img" src="images/DendriticConstancy2021.png" /></a></div></td>
   <td class="pub_td2"><b>A general principle of dendritic constancy: A neuron’s size-and shape-invariant excitability</b><br />
 		<div class='paper_metadata'>
 		Hermann Cuntz, Alex D Bird, Martin Mittag, Marcel Beining, <u>Marius Schneider</u>, Laura Mediavilla, Felix Z Hoffmann, Thomas Deller, Peter Jedlicka <br />	
@@ -63,7 +63,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
 	
 	
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/aperiodic.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/aperiodic2022.png" /></a></div></td>
   <td class="pub_td2"><b>Aperiodic processes explaining rhythms in behavior: A matter of false detection or definition?</b><br />
 		<div class='paper_metadata'>
 		Martin Vinck, Cem Uran, <u>Marius Schneider</u> <br />	
@@ -74,7 +74,7 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
 </td></tr>
 	
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract"><img class="teaser_img" src="images/ChannelDiversity2021.png" /></a></div></td>
   <td class="pub_td2"><b>Biological complexity facilitates tuning of the neuronal parameter space</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u>, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
