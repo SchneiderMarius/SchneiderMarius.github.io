@@ -276,7 +276,7 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 <span style="font-size: 12pt;">
 	Neuromatch Conference, Zoom, 2021<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t> A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power,<a href="https://www.youtube.com/watch?v=SoBPoRGQBD4">Watch here</a> <br>
+		<t> A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power, <a <t>  href="https://www.youtube.com/watch?v=SoBPoRGQBD4">Watch here</a> <br>
 
 			
 <h2>Mini Projects</h2>
