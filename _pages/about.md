@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Marius Schneider, I hold a Master's degree in Physics and I am currently working on my PhD in Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) under the supervision of [Martin Vinck](https://www.martinvinck.com/). I am affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs) at the Max Planck Institute for Brain Research.
+My name is Marius Schneider, I hold a Master's degree in Physics and I am currently working on my PhD in Systems & Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) under the supervision of [Martin Vinck](https://www.martinvinck.com/). I am affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs) at the Max Planck Institute for Brain Research.
 
 My research focuses on understanding the dynamics of interactions between brain areas, using both computational models and large-scale electrophysiological data recorded in rodents and non-human primates. I previously worked with [Hermann Cuntz](https://www.treestoolbox.org/hermann/index.html) and [Peter Jedlicka](https://www.uni-giessen.de/fbz/fb11/institute/computerbasiertes-modelling/dreir/team/jedlicka), builiding large stochastic populations of biophysically realistic granule cell models of the hippocampus to investigate how ion channel diversity increases a neuron's flexibility and robustness.
 
@@ -276,15 +276,14 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 <span style="font-size: 12pt;">
 	Neuromatch Conference, Zoom, 2021<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t> A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power <br>
-	<span style="font-size: 11pt;margin-left: 20px">
-		<t><a href="https://www.youtube.com/watch?v=SoBPoRGQBD4">Watch here</a><br>	
+		<t> A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power,<a href="https://www.youtube.com/watch?v=SoBPoRGQBD4">Watch here</a> <br>
+
 			
 <h2>Mini Projects</h2>
 <span style="font-size: 12pt;">
 	<a href="https://imbizo.africa/">IBRO-Simons Computational Neuroscience Imbizo Summer School, Cape Town, South Africa,2022</a><br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t> small project on reinforcement learning<a href="https://github.com/SchneiderMarius/KnightsTourTask">Code</a><br>
+		<t> small project on reinforcement learning, <a href="https://github.com/SchneiderMarius/KnightsTourTask">Code</a><br>
 
 			
 ----------
