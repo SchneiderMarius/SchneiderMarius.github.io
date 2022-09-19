@@ -252,7 +252,7 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 <span style="font-size: 12pt;">
 	Neuromatch Academy: Computational Neuroscience 2022<br>	
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant<br>
+		<t>Teaching Assistant, theoretical modeling and data-driven analyses<br>
 <span style="font-size: 12pt;">
 	7th Baltic-Nordic School on Neuroinformatics BNN, FIAS Frankfurt am Main, 2019<br>
 	<span style="font-size: 11pt;margin-left: 20px">
@@ -262,7 +262,7 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 	<span style="font-size: 12pt;">
 	Computational Neurobiology,  Undergraduate course, Goethe University, Biological Sciences, 2018<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a>, Specialisation 2 ”fly motion vision” 7 afternoons (4.5h each) and one seminar (1h).<br>
+		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a>, Specialisation 2 ”fly motion vision”.<br>
 	<span style="font-size: 12pt;">		
 		
 	
