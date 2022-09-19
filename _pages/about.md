@@ -280,3 +280,8 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t><a href="https://www.youtube.com/watch?v=SoBPoRGQBD4">Watch here</a><br>	
 			
+<h2>Mini Projects</h2>
+<span style="font-size: 12pt;">
+	<a href="https://imbizo.africa/">IBRO-Simons Computational Neuroscience Imbizo Summer School, Cape Town, South Africa,2022</a><br>
+	<span style="font-size: 11pt;margin-left: 20px">
+		<t> small project on reinforcement learning<a href="https://github.com/SchneiderMarius/KnightsTourTask">Code
