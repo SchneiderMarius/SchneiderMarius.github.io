@@ -78,10 +78,10 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
   <td class="pub_td2"><b>Biological complexity facilitates tuning of the neuronal parameter space</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u>, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
-  	<i>PsyArXiv</i> 2022<br />
+  	<i>bioRxiv</i> 2021<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract">Paper</a> | <a 
-href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
+href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
 </td></tr>	
 	
 	
@@ -246,11 +246,7 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
 </td></tr>-->
 </table>
 
-Computational Neurobiology
-TA, Undergraduate course, Goethe University, Biological Sciences, 2018
 
-Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons (4.5h each) and one seminar (1h). This course teaches the basic principles of coding and applies the skills acquired to analyse a computer model for fly motion detection.
-	
 	
 <h2>Teaching</h2>
 <span style="font-size: 12pt;">
