@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Marius Schneider, I hold a master’s degree in physics and currently I am working on my PhD thesis in computational neuroscience at the 
-[Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) under the supervision of [Martin Vinck](https://www.martinvinck.com/). I am affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs) at the Max Planck Institute for Brain Research.
+My name is Marius Schneider, I hold a Master's degree in Physics and I am currently working on my PhD in Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) under the supervision of [Martin Vinck](https://www.martinvinck.com/). I am affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs) at the Max Planck Institute for Brain Research.
 
-My research focuses on the understanding the dynamics of interactions between brain areas, using computational models as well as large scale electrophysiological data, recorded in rodents and non-human primates. 
-I previously worked with [Hermann Cuntz](https://www.treestoolbox.org/hermann/index.html) and [Peter Jedlicka](https://www.uni-giessen.de/fbz/fb11/institute/computerbasiertes-modelling/dreir/team/jedlicka), building large stochastic populations of biophysically realistic hippocampal granule cell models to study how the diversity of ion channels gives a neuron greater flexibility and robustness.
+My research focuses on understanding the dynamics of interactions between brain areas, using both computational models and large-scale electrophysiological data recorded in rodents and non-human primates. I previously worked with [Hermann Cuntz](https://www.treestoolbox.org/hermann/index.html) and [Peter Jedlicka](https://www.uni-giessen.de/fbz/fb11/institute/computerbasiertes-modelling/dreir/team/jedlicka), builiding large stochastic populations of biophysically realistic granule cell models of the hippocampus to investigate how ion channel diversity increases a neuron's flexibility and robustness.
 
 <style type="text/css">
   .paper_metadata a {
@@ -45,7 +43,7 @@ I previously worked with [Hermann Cuntz](https://www.treestoolbox.org/hermann/in
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
 		<div class='paper_metadata'>
-  	<u>Marius Schneider</u>r, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin Vinck <br />
+  	<u>Marius Schneider</u>, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin Vinck <br />
   	<i>Neuron Volume 109, Issue 24</i> 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a 
@@ -57,7 +55,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
   <td class="pub_td2"><b>A general principle of dendritic constancy: A neuron’s size-and shape-invariant excitability</b><br />
 		<div class='paper_metadata'>
-		Hermann Cuntz, Alex D Bird, Martin Mittag, Marcel Beining, <u>Marius Schneider</u>r, Laura Mediavilla, Felix Z Hoffmann, Thomas Deller, Peter Jedlicka <br />	
+		Hermann Cuntz, Alex D Bird, Martin Mittag, Marcel Beining, <u>Marius Schneider</u>, Laura Mediavilla, Felix Z Hoffmann, Thomas Deller, Peter Jedlicka <br />	
   	<i>Neuron Volume 109, Issue 22</i> 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255">Paper</a> | <a href="https://zenodo.org/record/5185295#.YReR_ogzZ6s">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1441033601018105856">Tweetprint</a> 
@@ -68,14 +66,23 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
   <td class="pub_td2"><b>Aperiodic processes explaining rhythms in behavior: A matter of false detection or definition?</b><br />
 		<div class='paper_metadata'>
-		Martin Vinck, Cem Uran, <u>Marius Schneider</u>r <br />	
+		Martin Vinck, Cem Uran, <u>Marius Schneider</u> <br />	
   	<i>PsyArXiv</i> 2022<br />
   	</div>
   <a href="https://psyarxiv.com/wzvfh/">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href="https://twitter.com/martin_a_vinck/status/1567542473638944768">Tweetprint</a> 
 </td></tr>
 	
-	
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td2"><b>Biological complexity facilitates tuning of the neuronal parameter space</b><br />
+		<div class='paper_metadata'>
+		<u>Marius Schneider</u>, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
+  	<i>PsyArXiv</i> 2022<br />
+  	</div>
+  <a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract">Paper</a> | <a 
+href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
+</td></tr>	
 	
 	
 <!-- <tr>
@@ -247,19 +254,20 @@ Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons 
 	
 <h2>Teaching</h2>
 <span style="font-size: 12pt;">
-	Neuromatch Academy: Computational Neuroscience 2020<br>	
+	Neuromatch Academy: Computational Neuroscience 2022<br>	
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t>Teaching Assistant<br>
 <span style="font-size: 12pt;">
-	Modeling Healthy and Diseased Brain: From Dendrites to Neurons and Networks, 7th Baltic-Nordic School on Neuroinformatics BNN, FIAS Frankfurt am Main, 2019<br>
+	7th Baltic-Nordic School on Neuroinformatics BNN, FIAS Frankfurt am Main, 2019<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant</a><br>
-	Undergraduate Mentor, Goethe University, Frankfurt am Main, 2019<br>
-
+		<t>Teaching Assistant<br>
+		<t>Modeling Healthy and Diseased Brain: From Dendrites to Neurons and Networks</a><br>
+<span style="font-size: 12pt;">
+	Undergraduate Mentor, Goethe University, Frankfurt am Main, 2019<br>		
 	<span style="font-size: 12pt;">
 	Computational Neurobiology,  Undergraduate course, Goethe University, Biological Sciences, 2018<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a></a><br>
+		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a><br>
 	<span style="font-size: 12pt;">		
 		
 	
@@ -267,5 +275,12 @@ Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons 
 		
 <h2>Invited Talks</h2>
 <span style="font-size: 12pt;">
-	MIT-Takeda Presentation Series 2022<br>
-	MIT MGB AI Cures Conference 2022<br>
+	Bernstein Center for Computational Neuroscience, Berlin, Germany, 2022<br>
+	<span style="font-size: 11pt;margin-left: 20px">
+		<t><a href="https://www.bccn-berlin.de/talks/marius-schneider-do-neurons-communicate-through-coherence.html">Do neurons communicate through coherence?</a><br>	
+<span style="font-size: 12pt;">
+	Neuromatch Conference, Zoom, 2022<br>
+	<span style="font-size: 11pt;margin-left: 20px">
+		<t> A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power <br>
+		<t><a href="https://www.youtube.com/watch?v=SoBPoRGQBD4">Watch here</a><br>	
+			
