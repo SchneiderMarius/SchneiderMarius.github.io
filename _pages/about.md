@@ -63,7 +63,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
 	
 	
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/2022_inrnet.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/aperiodic.png" /></a></div></td>
   <td class="pub_td2"><b>Aperiodic processes explaining rhythms in behavior: A matter of false detection or definition?</b><br />
 		<div class='paper_metadata'>
 		Martin Vinck, Cem Uran, <u>Marius Schneider</u> <br />	
