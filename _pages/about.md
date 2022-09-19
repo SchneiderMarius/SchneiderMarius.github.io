@@ -267,7 +267,7 @@ Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons 
 	<span style="font-size: 12pt;">
 	Computational Neurobiology,  Undergraduate course, Goethe University, Biological Sciences, 2018<br>
 	<span style="font-size: 11pt;margin-left: 20px">
-		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a><br>
+		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a>, Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons (4.5h each) and one seminar (1h). This course teaches the basic principles of coding and applies the skills acquired to analyse a computer model for fly motion detection.<br>
 	<span style="font-size: 12pt;">		
 		
 	
@@ -279,7 +279,7 @@ Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons 
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t><a href="https://www.bccn-berlin.de/talks/marius-schneider-do-neurons-communicate-through-coherence.html">Do neurons communicate through coherence?</a><br>	
 <span style="font-size: 12pt;">
-	Neuromatch Conference, Zoom, 2022<br>
+	Neuromatch Conference, Zoom, 2021<br>
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t> A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power <br>
 	<span style="font-size: 11pt;margin-left: 20px">
