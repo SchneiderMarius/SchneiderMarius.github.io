@@ -282,5 +282,6 @@ Course Neurobiology I – Specialisation 2 ”fly motion vision” 7 afternoons 
 	Neuromatch Conference, Zoom, 2022<br>
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t> A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power <br>
+	<span style="font-size: 11pt;margin-left: 20px">
 		<t><a href="https://www.youtube.com/watch?v=SoBPoRGQBD4">Watch here</a><br>	
 			
