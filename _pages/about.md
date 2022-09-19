@@ -286,6 +286,6 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 		<t> small project on reinforcement learning, <a href="https://github.com/SchneiderMarius/KnightsTourTask">Code</a><br>
 
 			
-----------
+
 <a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Mars_Schneider?ref_src=twsrc%5Etfw">Tweets by Mars_Schneider</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 <a href="https://twitter.com/Mars_Schneider?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @Avra_b</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
