@@ -65,7 +65,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
   <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects in macaque V4</b><br />
 		<div class='paper_metadata'>
-		Georgios Spyropoulos*, <u>Marius Schneider*</u> , Jochem van Kempen, Marc Alwin Gieselmann, Alexander Thiele, Martin Vinck<br />	
+		Georgios Spyropoulos*, <u>Marius Schneider*</u> , Jochem van Kempen, Marc Alwin Gieselmann, Alexander Thiele, Martin Vinck <br />	
   	<i>bioRxiv</i> 2022<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract">Paper</a> | <a href="https://twitter.com/martin_a_vinck/status/1589234246958579713">Tweetprint</a> 
