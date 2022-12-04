@@ -268,8 +268,10 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t>Teaching Assistant, Modeling Healthy and Diseased Brain: From Dendrites to Neurons and Networks<br>
 <span style="font-size: 12pt;">
-	Undergraduate Mentor, Goethe University, Frankfurt am Main, 2019<br>		
-	<span style="font-size: 12pt;">
+	Undergraduate Mentor, Goethe University, Frankfurt am Main, 2019<br>	
+	<span style="font-size: 11pt;margin-left: 20px">
+		<t>Supervision of Bachelor's thesis<br>
+<span style="font-size: 12pt;">
 	Computational Neurobiology,  Undergraduate course, Goethe University, Biological Sciences, 2018<br>
 	<span style="font-size: 11pt;margin-left: 20px">
 		<t>Teaching Assistant with <a href="https://www.treestoolbox.org/hermann/index.html">Hermann Cuntz</a>, Specialisation 2 ”fly motion vision”.<br>
