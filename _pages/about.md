@@ -266,6 +266,7 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 </td></tr>-->
 </table>
 
+<font size="-2">*These authors contributed equally to this work</font>
 *These authors contributed equally to this work
 	
 <h2>Teaching</h2>
