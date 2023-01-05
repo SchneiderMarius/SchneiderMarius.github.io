@@ -60,9 +60,19 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   	</div>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255">Paper</a> | <a href="https://zenodo.org/record/5185295#.YReR_ogzZ6s">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1441033601018105856">Tweetprint</a> 
 </td></tr>	
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1"><img class="teaser_img" src="images/Flicker2022.png" /></a></div></td>
+  <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
+		<div class='paper_metadata'>
+		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
+  	<i>bioRxiv</i> 2022<br />
+  	</div>
+  <a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1">Paper</a> | <a href="https://twitter.com/martin_a_vinck/status/1589234246958579713">Tweetprint</a> 
+</td></tr>
 	
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
   <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects in macaque V4</b><br />
 		<div class='paper_metadata'>
 		Georgios Spyropoulos*, <u>Marius Schneider*</u> , Jochem van Kempen, Marc Alwin Gieselmann, Alexander Thiele, Martin Vinck <br />	
