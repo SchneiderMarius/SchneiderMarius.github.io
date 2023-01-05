@@ -66,7 +66,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
-  	<i>bioRxiv</i> 2022<br />
+  	<i>bioRxiv</i> 2023<br />
   	</div>
 	  <a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1">Paper</a> | <a href="https://twitter.com/Mars_Schneider/status/1610976079153430528">Tweetprint</a> 
 </td></tr>
