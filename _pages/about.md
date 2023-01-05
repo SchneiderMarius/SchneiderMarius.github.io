@@ -68,7 +68,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
 		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
   	<i>bioRxiv</i> 2022<br />
   	</div>
-  <a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1">Paper</a> | <a href="https://twitter.com/martin_a_vinck/status/1589234246958579713">Tweetprint</a> 
+  <a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1">Paper</a> | <a 
 </td></tr>
 	
 <tr>
