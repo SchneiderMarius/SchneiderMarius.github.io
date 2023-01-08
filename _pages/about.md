@@ -267,7 +267,7 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 </td></tr>-->
 </table>
 
-<font size="-1">*equal contribution</font>
+<font size="-1">* equal contribution</font>
 	
 <h2>Teaching</h2>
 <span style="font-size: 12pt;">
