@@ -39,6 +39,8 @@ My research focuses on understanding the dynamics of interactions between brain 
 
 <table class="pub_table">
  
+<font size="-1">(* equal contribution)</font>
+	
 <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/Coherence2021.png" /></a></div></td>
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
@@ -267,7 +269,6 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 </td></tr>-->
 </table>
 
-<font size="-1">* equal contribution</font>
 	
 <h2>Teaching</h2>
 <span style="font-size: 12pt;">
