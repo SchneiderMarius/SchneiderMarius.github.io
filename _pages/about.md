@@ -292,7 +292,7 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
 	
 		
 		
-<h2>Invited Talks</h2>
+<h2>Talks</h2>
 <span style="font-size: 12pt;">
 	Bernstein Center for Computational Neuroscience, Berlin, Germany, 2022<br>
 	<span style="font-size: 11pt;margin-left: 20px">
