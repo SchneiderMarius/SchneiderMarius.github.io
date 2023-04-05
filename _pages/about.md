@@ -64,6 +64,17 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
 </td></tr>	
 
 <tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8"><img class="teaser_img" src="images/Review2023.png" /></a></div></td>
+  <td class="pub_td2"><b>A Principles of large-scale neural interactions</b><br />
+		<div class='paper_metadata'>
+		Martin Vinck, Cem Uran,Georgios Spyropoulos, Irene Onorato, Ana Clara Broggini, <u>Marius Schneider</u>, Andres Canales-Johnson <br />	
+  	<i>Neuron Volume 111, Issue 7</i> 2023<br />
+  	</div>
+  <a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a>
+</td></tr>		
+	
+	
+<tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1"><img class="teaser_img" src="images/Flicker2022.png" /></a></div></td>
   <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
 		<div class='paper_metadata'>
