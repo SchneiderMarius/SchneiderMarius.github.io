@@ -116,7 +116,19 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
-</td></tr>	
+</td></tr>
+	
+	
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2023.04.08.535291"><img class="teaser_img" src="images/Onorato2023.png" /></a></div></td>
+  <td class="pub_td2"><b>Distinct roles of PV and Sst interneurons in visually-induced gamma oscillations</b><br />
+		<div class='paper_metadata'>
+		Irene Onorato, Athanasia Tzanou, <u>Marius Schneider</u>, Cem Uran, Ana Clara Broggini, Martin Vinck<br />	
+  	<i>bioRxiv</i> 2023<br />
+  	</div>
+  <a href="https://www.biorxiv.org/content/10.1101/2023.04.08.535291">Paper</a> | <a 
+href="https://twitter.com/martin_a_vinck/status/1645344689581699072">Tweetprint</a> 
+</td></tr>
 	
 	
 <!-- <tr>
