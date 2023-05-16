@@ -58,7 +58,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
-  	<i>Cell Reports</i> 2023<br />
+  	<i>Cell Reports Volume 42, Issue 6</i> 2023<br />
   	</div>
     	<a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a> | <a 
   	href="https://doi.org/10.5281/zenodo.7781198">Code</a> | <a 
