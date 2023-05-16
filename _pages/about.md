@@ -54,6 +54,19 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
 </td></tr>
 
 <tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8"><img class="teaser_img" src="images/graphical_abstract_final.png" /></a></div></td>
+  <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
+		<div class='paper_metadata'>
+		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
+  	<i>Cell Reports</i> 2023<br />
+  	</div>
+    	<a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a> | <a 
+  	href="https://doi.org/10.5281/zenodo.7781198">Code</a> | <a 
+	href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1">Preprint</a> | <a 
+	href="https://twitter.com/Mars_Schneider/status/1610976079153430528">Tweetprint</a> 
+</td></tr>	
+	
+<tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255"><img class="teaser_img" src="images/DendriticConstancy2021.png" /></a></div></td>
   <td class="pub_td2"><b>A general principle of dendritic constancy: A neuron’s size-and shape-invariant excitability</b><br />
 		<div class='paper_metadata'>
@@ -73,18 +86,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a>
 </td></tr>		
 	
-	
-<tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1"><img class="teaser_img" src="images/Flicker2022.png" /></a></div></td>
-  <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
-		<div class='paper_metadata'>
-		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
-  	<i>bioRxiv</i> 2023<br />
-  	</div>
-	  <a href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1">Paper</a> | <a href="https://twitter.com/Mars_Schneider/status/1610976079153430528">Tweetprint</a> 
-</td></tr>
-	
-	
+
 <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
   <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects in macaque V4</b><br />
