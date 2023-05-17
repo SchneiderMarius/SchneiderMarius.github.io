@@ -46,7 +46,7 @@ My research focuses on understanding the dynamics of interactions between brain 
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
 		<div class='paper_metadata'>
   	<u>Marius Schneider</u>, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin Vinck <br />
-  	<i>Neuron Volume 109, Issue 24</i> 2021<br />
+  	<i>Neuron, Volume 109, Issue 24</i> 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a 
 href="https://zenodo.org/record/5507277">Code</a> | <a 
@@ -54,13 +54,13 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
 </td></tr>
 
 <tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8"><img class="teaser_img" src="images/graphical_abstract_final.png" /></a></div></td>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00503-X"><img class="teaser_img" src="images/graphical_abstract_final.png" /></a></div></td>
   <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
-  	<i>Cell Reports Volume 42, Issue 6</i> 2023<br />
+  	<i>Cell Reports, Volume 42, Issue 5</i> 2023<br />
   	</div>
-    	<a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a> | <a 
+    	<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00503-X">Paper</a> | <a 
   	href="https://doi.org/10.5281/zenodo.7781198">Code</a> | <a 
 	href="https://www.biorxiv.org/content/10.1101/2023.01.04.522738v1">Preprint</a> | <a 
 	href="https://twitter.com/Mars_Schneider/status/1610976079153430528">Tweetprint</a> 
@@ -71,7 +71,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>A general principle of dendritic constancy: A neuron’s size-and shape-invariant excitability</b><br />
 		<div class='paper_metadata'>
 		Hermann Cuntz, Alex D Bird, Martin Mittag, Marcel Beining, <u>Marius Schneider</u>, Laura Mediavilla, Felix Z Hoffmann, Thomas Deller, Peter Jedlicka <br />	
-  	<i>Neuron Volume 109, Issue 22</i> 2021<br />
+  	<i>Neuron, Volume 109, Issue 22</i> 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255">Paper</a> | <a href="https://zenodo.org/record/5185295#.YReR_ogzZ6s">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1441033601018105856">Tweetprint</a> 
 </td></tr>	
