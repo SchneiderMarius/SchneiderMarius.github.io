@@ -58,7 +58,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
-  	<i>Cell Reports, Volume 42, Issue 5,</i> May 30<br />
+  	<i>Cell Reports, Volume 42, Issue 5,</i> May 2023<br />
   	</div>
     	<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00503-X">Paper</a> | <a 
   	href="https://doi.org/10.5281/zenodo.7781198">Code</a> | <a 
@@ -81,7 +81,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Principles of large-scale neural interactions</b><br />
 		<div class='paper_metadata'>
 		Martin Vinck, Cem Uran, Georgios Spyropoulos, Irene Onorato, Ana Clara Broggini, <u>Marius Schneider</u>, Andres Canales-Johnson <br />	
-  	<i>Neuron, Volume 111, Issue 7,</i>April 2023<br />
+  	<i>Neuron, Volume 111, Issue 7,</i> April 2023<br />
   	</div>
   <a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a>
 </td></tr>		
