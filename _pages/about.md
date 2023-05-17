@@ -46,7 +46,7 @@ My research focuses on understanding the dynamics of interactions between brain 
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
 		<div class='paper_metadata'>
   	<u>Marius Schneider</u>, Ana Clara Broggini, Benjamin Dann, Athanasia Tzanou, Cem Uran, Swathi Sheshadri, Hansjörg Scherberger, Martin Vinck <br />
-  	<i>Neuron, Volume 109, Issue 24</i> 2021<br />
+  	<i>Neuron, Volume 109, Issue 24,</i> December 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108">Paper</a> | <a 
 href="https://zenodo.org/record/5507277">Code</a> | <a 
@@ -58,7 +58,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Cell-type-specific propagation of visual flicker</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u> , Athanasia Tzanou, Cem Uran, Martin Vinck <br />	
-  	<i>Cell Reports, Volume 42, Issue 5</i> 2023<br />
+  	<i>Cell Reports, Volume 42, Issue 5,</i> May 30<br />
   	</div>
     	<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00503-X">Paper</a> | <a 
   	href="https://doi.org/10.5281/zenodo.7781198">Code</a> | <a 
@@ -71,7 +71,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>A general principle of dendritic constancy: A neuron’s size-and shape-invariant excitability</b><br />
 		<div class='paper_metadata'>
 		Hermann Cuntz, Alex D Bird, Martin Mittag, Marcel Beining, <u>Marius Schneider</u>, Laura Mediavilla, Felix Z Hoffmann, Thomas Deller, Peter Jedlicka <br />	
-  	<i>Neuron, Volume 109, Issue 22</i> 2021<br />
+  	<i>Neuron, Volume 109, Issue 22,</i> November 2021<br />
   	</div>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0896627321006255">Paper</a> | <a href="https://zenodo.org/record/5185295#.YReR_ogzZ6s">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1441033601018105856">Tweetprint</a> 
 </td></tr>	
@@ -81,7 +81,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Principles of large-scale neural interactions</b><br />
 		<div class='paper_metadata'>
 		Martin Vinck, Cem Uran, Georgios Spyropoulos, Irene Onorato, Ana Clara Broggini, <u>Marius Schneider</u>, Andres Canales-Johnson <br />	
-  	<i>Neuron, Volume 111, Issue 7</i> 2023<br />
+  	<i>Neuron, Volume 111, Issue 7,</i>April 2023<br />
   	</div>
   <a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a>
 </td></tr>		
@@ -92,7 +92,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects in macaque V4</b><br />
 		<div class='paper_metadata'>
 		Georgios Spyropoulos*, <u>Marius Schneider*</u> , Jochem van Kempen, Marc Alwin Gieselmann, Alexander Thiele, Martin Vinck <br />	
-  	<i>bioRxiv</i> 2022<br />
+  	<i>bioRxiv,</i> November 2022<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract">Paper</a> | <a href="https://twitter.com/martin_a_vinck/status/1589234246958579713">Tweetprint</a> 
 </td></tr>
@@ -103,7 +103,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Aperiodic processes explaining rhythms in behavior: A matter of false detection or definition?</b><br />
 		<div class='paper_metadata'>
 		Martin Vinck, Cem Uran, <u>Marius Schneider</u> <br />	
-  	<i>PsyArXiv</i> 2022<br />
+  	<i>PsyArXiv,</i> July 2022<br />
   	</div>
   <a href="https://psyarxiv.com/wzvfh/">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href="https://twitter.com/martin_a_vinck/status/1567542473638944768">Tweetprint</a> 
@@ -114,7 +114,7 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
   <td class="pub_td2"><b>Biological complexity facilitates tuning of the neuronal parameter space</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u>, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
-  	<i>bioRxiv</i> 2021<br />
+  	<i>bioRxiv,</i> May 2021<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
@@ -126,7 +126,7 @@ href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="h
   <td class="pub_td2"><b>Distinct roles of PV and Sst interneurons in visually-induced gamma oscillations</b><br />
 		<div class='paper_metadata'>
 		Irene Onorato, Athanasia Tzanou, <u>Marius Schneider</u>, Cem Uran, Ana Clara Broggini, Martin Vinck<br />	
-  	<i>bioRxiv</i> 2023<br />
+  	<i>bioRxiv,</i> April 2023<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2023.04.08.535291">Paper</a> | <a 
 href="https://twitter.com/martin_a_vinck/status/1645344689581699072">Tweetprint</a> 
