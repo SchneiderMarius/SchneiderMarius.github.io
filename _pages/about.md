@@ -112,7 +112,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Aperiodic processes explaining rhythms in behavior: A matter of false detection or definition?</b><br />
 		<div class='paper_metadata'>
 		Martin Vinck, Cem Uran, <u>Marius Schneider</u> <br />	
-  	<i>Nature Human Behavior, accepted pending minor revision. ,</i><br />
+  	<i>Nature Human Behavior, pending minor revision.</i><br />
   	</div>
   <a href="https://psyarxiv.com/wzvfh/">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href="https://twitter.com/martin_a_vinck/status/1567542473638944768">Tweetprint</a> 
@@ -123,7 +123,7 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
   <td class="pub_td2"><b>Biological complexity facilitates tuning of the neuronal parameter space</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u>, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
-  	<i>PLoS Computational Biology, accepted. ,</i> June 2023<br />
+  	<i>PLoS Computational Biology, accepted.</i> June 2023<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
