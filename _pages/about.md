@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Marius Schneider, I hold a Master's degree in Physics and I am currently working on my PhD in Systems & Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) under the supervision of [Martin Vinck](https://www.martinvinck.com/). I am affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs) at the Max Planck Institute for Brain Research.
 
-My research focuses on understanding the dynamics of interactions between brain areas, using both computational models and large-scale electrophysiological data recorded in rodents and non-human primates. I previously worked with [Hermann Cuntz](https://www.treestoolbox.org/hermann/index.html) and [Peter Jedlicka](https://www.uni-giessen.de/fbz/fb11/institute/computerbasiertes-modelling/dreir/team/jedlicka), builiding large stochastic populations of biophysically realistic granule cell models of the hippocampus to investigate how ion channel diversity increases a neuron's flexibility and robustness.
+My research focuses on understanding the dynamics of interactions between brain areas, using both computational models and large-scale electrophysiological data recorded in rodents and non-human primates. I previously worked with [Hermann Cuntz](https://www.treestoolbox.org/hermann/index.html) and [Peter Jedlicka](https://www.uni-giessen.de/fbz/fb11/institute/computerbasiertes-modelling/dreir/team/jedlicka), building large stochastic populations of biophysically realistic granule cell models of the hippocampus to investigate how ion channel diversity increases a neuron's flexibility and robustness.
 
 <style type="text/css">
   .paper_metadata a {
