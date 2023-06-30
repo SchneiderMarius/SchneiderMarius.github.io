@@ -86,6 +86,17 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00211-8">Paper</a>
 </td></tr>		
 	
+https://authors.elsevier.com/sd/article/S1053-8119(23)00407-X 
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://authors.elsevier.com/sd/article/S1053-8119(23)00407-X "><img class="teaser_img" src="images/Dowdall2023" /></a></div></td>
+  <td class="pub_td2"><b>Attentional modulation of inter-areal coherence explained by frequency shifts</b><br />
+		<div class='paper_metadata'>
+		Jarrod Robert Dowdall, <u>Marius Schneider</u>,Martin Vinck <br />	
+  	<i>Neuroimage,</i> June 2023<br />
+  	</div>
+  <a href="https://authors.elsevier.com/sd/article/S1053-8119(23)00407-X ">Paper</a>
+</td></tr>	
 
 <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
