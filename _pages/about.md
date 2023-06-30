@@ -112,7 +112,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td2"><b>Aperiodic processes explaining rhythms in behavior: A matter of false detection or definition?</b><br />
 		<div class='paper_metadata'>
 		Martin Vinck, Cem Uran, <u>Marius Schneider</u> <br />	
-  	<i>PsyArXiv,</i> July 2022<br />
+  	<i>Nature Human Behavior, accepted pending minor revision. ,</i><br />
   	</div>
   <a href="https://psyarxiv.com/wzvfh/">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href="https://twitter.com/martin_a_vinck/status/1567542473638944768">Tweetprint</a> 
