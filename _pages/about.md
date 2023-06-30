@@ -90,7 +90,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://authors.elsevier.com/sd/article/S1053-8119(23)00407-X "><img class="teaser_img" src="images/Dowdall2023.png" /></a></div></td>
   <td class="pub_td2"><b>Attentional modulation of inter-areal coherence explained by frequency shifts</b><br />
 		<div class='paper_metadata'>
-		Jarrod Robert Dowdall, <u>Marius Schneider</u>,Martin Vinck <br />	
+		Jarrod Robert Dowdall, <u>Marius Schneider</u>, Martin Vinck <br />	
   	<i>Neuroimage,</i> June 2023<br />
   	</div>
   <a href="https://authors.elsevier.com/sd/article/S1053-8119(23)00407-X ">Paper</a>
@@ -123,7 +123,7 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
   <td class="pub_td2"><b>Biological complexity facilitates tuning of the neuronal parameter space</b><br />
 		<div class='paper_metadata'>
 		<u>Marius Schneider</u>, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
-  	<i>bioRxiv,</i> May 2021<br />
+  	<i>PLoS Computational Biology, accepted. ,</i> June 2023<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2.abstract">Paper</a> | <a 
 href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
