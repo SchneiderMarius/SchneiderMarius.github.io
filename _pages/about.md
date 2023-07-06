@@ -74,7 +74,9 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   	<i>PLoS Computational Biology, Volume 19, </i> July 2023<br />
   	</div>
   <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011212">Paper</a> | <a 
-href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
+href="https://github.com/SchneiderMarius/ChannelDiversity">Code</a> | <a 
+href="https://www.biorxiv.org/content/10.1101/2021.05.04.442120v2">Preprint</a> | <a 
+href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint</a> 
 </td></tr>
 
 
