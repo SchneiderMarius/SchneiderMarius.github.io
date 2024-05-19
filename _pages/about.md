@@ -40,7 +40,19 @@ My research focuses on understanding the dynamics of interactions between brain 
 <table class="pub_table">
  
 <font size="-1">(* equal contribution)</font>
-	
+
+<tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627324002812"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
+  <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects</b><br />
+		<div class='paper_metadata'>
+		Georgios Spyropoulos*, <u>Marius Schneider*</u> , Jochem van Kempen, Marc Alwin Gieselmann, Alexander Thiele, Martin Vinck <br />	
+  	<i>Neuron,</i> in Press<br />
+  	</div>
+<a href="https://www.sciencedirect.com/science/article/pii/S0896627324002812">Paper</a> | <a 
+href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract">Preprint</a> | <a href="https://twitter.com/martin_a_vinck/status/1589234246958579713">Tweetprint</a> 
+</td></tr>
+
+ 
 <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627321007108"><img class="teaser_img" src="images/Coherence2021.png" /></a></div></td>
   <td class="pub_td2"><b>A mechanism for inter-areal coherence through communication based on connectivity and oscillatory power</b><br />
@@ -110,16 +122,6 @@ href="https://twitter.com/ComputingCajal/status/1391306626645340163">Tweetprint<
   <a href="https://authors.elsevier.com/sd/article/S1053-8119(23)00407-X ">Paper</a>
 </td></tr>	
 
-<tr>
-  <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
-  <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects in macaque V4</b><br />
-		<div class='paper_metadata'>
-		Georgios Spyropoulos*, <u>Marius Schneider*</u> , Jochem van Kempen, Marc Alwin Gieselmann, Alexander Thiele, Martin Vinck <br />	
-  	<i>bioRxiv,</i> November 2022<br />
-  	</div>
-  <a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract">Paper</a> | <a href="https://twitter.com/martin_a_vinck/status/1589234246958579713">Tweetprint</a> 
-</td></tr>
-	
 	
 <tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://psyarxiv.com/wzvfh/"><img class="teaser_img" src="images/aperiodic2022.png" /></a></div></td>
