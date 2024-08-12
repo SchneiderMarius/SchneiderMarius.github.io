@@ -46,7 +46,8 @@ My research focuses on understanding the dynamics of interactions between brain 
   <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects</b><br />
 		<div class='paper_metadata'>
 		Georgios Spyropoulos*, <u>Marius Schneider*</u> , Jochem van Kempen, Marc Alwin Gieselmann, Alexander Thiele, Martin Vinck <br />	
-  	<i>Neuron,</i> in Press<br />
+  	<i>Neuron, Volume 112, Issue 14,</i> JULY 2024<br />		
+<br />
   	</div>
 <a href="https://www.sciencedirect.com/science/article/pii/S0896627324002812">Paper</a> | <a 
 href="https://www.biorxiv.org/content/10.1101/2022.11.04.515185v2.abstract">Preprint</a> | <a href="https://twitter.com/martin_a_vinck/status/1589234246958579713">Tweetprint</a> 
