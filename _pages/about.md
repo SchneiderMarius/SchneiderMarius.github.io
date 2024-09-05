@@ -11,7 +11,7 @@ Hello!
 
 I’m Marius Schneider, a Postdoctoral Researcher in the [Bionic Vision Lab](https://bionicvisionlab.org/), under the supervision of Michael Beyeler at the [Institute for Collaborative Biotechnologies](https://www.icb.ucsb.edu/), University of California, Santa Barbara.
 
-I graduated from Goethe University in 2019 with both a Bachelor's and a Master's degree in Physics. I then completed a PhD in Systems and Computational Neuroscience under the guidance of [Martin Vinck](https://www.martinvinck.com/) at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) in Frankfurt, affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs). I defended my PhD with highest honors at Radboud University Nijmegen in May 2024.
+I graduated from Goethe University in 2019 with both a Bachelor's and a Master's degree in Physics. I then completed a PhD in Systems and Computational Neuroscience under the supervision of [Martin Vinck](https://www.martinvinck.com/) at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) in Frankfurt, affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs). I defended my PhD with highest honors at Radboud University Nijmegen in May 2024.
 
 My research explores how the brain achieves flexible information processing, focusing on how various cell types and brain regions integrate sensory information to drive behavior. To address these questions, I employ detailed biophysical modeling, advanced machine learning techniques, and large-scale, multi-areal electrophysiological recordings.
 
