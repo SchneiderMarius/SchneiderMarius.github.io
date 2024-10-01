@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marius Schneider"
   avatar           : "Marius3.png"
-  bio              : "Comp. Neuroscience - PhD student"
-  location         : "Frankfurt am Main, Germany"
+  bio              : "Comp. Neuroscience - Postdoc"
+  location         : "Santa Barbara, USA"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mtC7qy8AAAAJ&hl=de&authuser=1"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/marius-schneider-78755422a/"
   orcid            : "http://orcid.org/0000-0002-8405-4131"
   pinterest        :
   soundcloud       :
