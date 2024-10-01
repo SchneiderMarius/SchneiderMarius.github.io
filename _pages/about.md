@@ -89,7 +89,7 @@ href="https://www.youtube.com/watch?v=SoBPoRGQBD4&t">Talk</a> | <a href="https:/
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011212"><img class="teaser_img" src="images/ChannelDiversity2021.png" /></a></div></td>
   <td class="pub_td2"><b>Biological complexity facilitates tuning of the neuronal parameter space</b><br />
 		<div class='paper_metadata'>
-		<u>Marius Schneider</u>,Alexander D. Bird, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
+		<u>Marius Schneider</u>, Alex D Bird, Albert Gidon, Jochen Triesch, Peter Jedlicka, Hermann Cuntz<br />	
   	<i>PLoS Computational Biology, Volume 19, </i> July 2023<br />
   	</div>
   <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011212">Paper</a> | <a 
