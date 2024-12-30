@@ -146,7 +146,7 @@ href="https://github.com/SchneiderMarius/Brookshire_comment">Code</a> | <a href=
   <td class="pub_td2"><b>Distinct roles of PV and Sst interneurons in visually-induced gamma oscillations</b><br />
 		<div class='paper_metadata'>
 		Irene Onorato, Athanasia Tzanou, <u>Marius Schneider</u>, Cem Uran, Ana Clara Broggini, Martin Vinck<br />	
-  	<i>bioRxiv,</i> April 2023<br />
+  	<i>Cell reports,</i> in press<br />
   	</div>
   <a href="https://www.biorxiv.org/content/10.1101/2023.04.08.535291">Paper</a> | <a 
 href="https://twitter.com/martin_a_vinck/status/1645344689581699072">Tweetprint</a> 
