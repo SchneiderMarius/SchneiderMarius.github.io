@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey!
 
-I’m Marius Schneider, a Postdoctoral Researcher in the [Bionic Vision Lab](https://bionicvisionlab.org/), at the [Institute for Collaborative Biotechnologies](https://www.icb.ucsb.edu/), University of California, Santa Barbara. My research focuses on understanding how the brain extracts relevant visual information from dynamic environments to help guide visual navigation.
+I’m Marius Schneider, a postdoctoral researcher in the [Bionic Vision Lab](https://bionicvisionlab.org/) at the University of California, Santa Barbara. My research focuses on how the brain extracts and integrates relevant visual information from complex, dynamic environments to support navigation and behavior.
 
-I graduated from Goethe University in 2019 with both a Bachelor's and a Master's degree in Physics. I then completed a PhD in Systems and Computational Neuroscience under the supervision of [Martin Vinck](https://www.martinvinck.com/) at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) in Frankfurt, affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs). I defended my PhD with highest honors at Radboud University Nijmegen in May 2024.
+I completed my PhD in Systems and Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) in Frankfurt, affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs). I defended my thesis with highest honors at Radboud University Nijmegen in May 2024. During my PhD, I developed a theoretical model of inter-areal coherence that provided an alternative explanation for widely observed patterns in functional connectivity, contributing to ongoing debates on the role of oscillations in neural communication.
 
-In general, I am interested in how the brain achieves flexible information processing, particularly in how different cell types and brain regions integrate sensory information to drive behavior. To explore these questions, I use a combination of detailed biophysical modeling, cutting-edge machine learning techniques, and the analysis of large-scale, multi-area electrophysiological recordings.
+Broadly, I’m interested in how different neural populations and brain areas contribute to flexible sensory processing. I approach these questions through a combination of large-scale electrophysiological data analysis, deep learning, and biophysically realistic modeling — with the goal of building models that connect brain activity to behavior in both biological and artificial systems.
 
 <style type="text/css">
   .paper_metadata a {
