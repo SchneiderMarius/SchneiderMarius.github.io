@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m Marius Schneider, a postdoctoral researcher in the [Bionic Vision Lab](https://bionicvisionlab.org/) at the University of California, Santa Barbara. My research focuses on how the brain extracts and integrates relevant sensory information from complex, dynamic environments to support navigation and behavior.
+I’m Marius Schneider, a postdoctoral researcher in the [Bionic Vision Lab](https://bionicvisionlab.org/) at the University of California, Santa Barbara. My research explores how the brain extracts and integrates sensory information from complex, dynamic environments to guide behavior and navigation.
 
-I completed my PhD in Systems and Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) in Frankfurt, affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs). I defended my thesis with highest honors at Radboud University Nijmegen in May 2024. During my PhD, I developed a theoretical model of inter-areal coherence that provided an alternative explanation for widely observed patterns in functional connectivity, contributing to ongoing debates on the role of oscillations in neural communication.
+I earned my PhD in Systems and Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) in Frankfurt, affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs). I defended my thesis with highest honors at Radboud University Nijmegen in May 2024. During my PhD, I developed a theoretical model of inter-areal coherence that offers an alternative explanation for widely observed patterns in functional connectivity, contributing to ongoing debates on the role of neural oscillations in communication.
 
-Broadly, I’m interested in how different neural populations contribute to flexible sensory processing. I approach these questions through a combination of large-scale electrophysiological data analysis, machine learning, and biophysically realistic modeling — with the goal of building models that connect neural activity to behavior in both biological and artificial systems.
+More broadly, I’m interested in how distributed neural populations support flexible sensory processing. My approach combines large-scale electrophysiological data analysis, machine learning, and biophysically grounded modeling — with the goal of building computational models that bridge neural activity and behavior in both biological and artificial systems.
 
 <style type="text/css">
   .paper_metadata a {
