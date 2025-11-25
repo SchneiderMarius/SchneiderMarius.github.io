@@ -12,7 +12,8 @@ I’m Marius Schneider, a postdoctoral researcher in the [Bionic Vision Lab](htt
 
 I earned my PhD in Systems and Computational Neuroscience at the [Ernst Strüngmann Institute (ESI) for Neuroscience](https://www.esi-frankfurt.de/) in Frankfurt, affiliated with the [International Max Planck Research School (IMPRS) for Neural Circuits](https://brain.mpg.de/imprs). I defended my thesis with highest honors at Radboud University Nijmegen in May 2024. During my PhD, I developed a theoretical model of inter-areal coherence that offers an alternative explanation for widely observed patterns in functional connectivity, contributing to ongoing debates on the role of neural oscillations in communication.
 
-More broadly, I’m interested in how distributed neural populations support flexible sensory processing. My approach combines large-scale electrophysiological data analysis, machine learning, and biophysically grounded modeling — with the goal of building computational models that bridge neural activity and behavior in both biological and artificial systems.
+More recently, my research has focused on computation during natural behavior, where I build models that integrate visual input, different behaviors, and neural activity to study how sensory encoding adapts during naturalistic exploration. My long-term goal is to bridge controlled laboratory paradigms with ecologically relevant behavior by developing computational models that reveal how sensory encoding, latent internal states, and ongoing behavior shape each other during real-world interaction with the environment.
+
 
 <style type="text/css">
   .paper_metadata a {
