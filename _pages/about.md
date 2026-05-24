@@ -45,6 +45,17 @@ More recently, my research has focused on computation during natural behavior, w
 <font size="-1">(* equal contribution)</font>
 
 <tr>
+  <td class="pub_td1"><div class="teaser_img_div"><a href="https://arxiv.org/abs/2509.14446"><img class="teaser_img" src="images/mouseVSai.png" /></a></div></td>
+  <td class="pub_td2"><b>Mouse vs. ai: A neuroethological benchmark for visual robustness and neural alignment</b><br />
+		<div class='paper_metadata'>
+		<u>Marius Schneider</u>, Joe Canzano, Jing Peng, Yuchen Hou, Spencer LaVere Smith, Michael Beyeler<br />	
+  	<i>ArXiv-2509.,</i> September 2025<br />		
+  	</div>
+<a href="https://arxiv.org/abs/2509.14446">Whitepaper</a> | <a 
+href="https://robustforaging.github.io/">Website</a> | <a href="https://bsky.app/profile/mariusschneider.bsky.social/post/3lzhjvxa4zk2h">Tweetprint</a> 
+</td></tr>
+
+<tr>
   <td class="pub_td1"><div class="teaser_img_div"><a href="https://www.sciencedirect.com/science/article/pii/S0896627324002812"><img class="teaser_img" src="images/InterneuronGamma2022.png" /></a></div></td>
   <td class="pub_td2"><b>Distinct feedforward and feedback pathways for cell-type specific attention effects</b><br />
 		<div class='paper_metadata'>
